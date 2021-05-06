@@ -8,7 +8,7 @@ ACM-DL: https://dl.acm.org/doi/10.5555/3463952.3464083
 
 Bibtex:
 
-@inproceedings{sarker2021local,
+@inproceedings{sarker2021local,\n
   title={A Local Search Based Approach to Solve Continuous DCOPs},
   author={Sarker, Amit and Choudhury, Moumita and Khan, Md Mosaddek},
   booktitle={Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems},
