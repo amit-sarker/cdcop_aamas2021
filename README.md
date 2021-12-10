@@ -14,7 +14,7 @@ Bibtex:
 @inproceedings{sarker2021local,
     title={A Local Search Based Approach to Solve Continuous DCOPs},
     author={Sarker, Amit and Choudhury, Moumita and Khan, Md Mosaddek},
-    booktitle={Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems},
+    booktitle={Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS)},
     publisher = {International Foundation for Autonomous Agents and Multiagent Systems},
     pages={1127--1135},
     year={2021}
